@@ -10,11 +10,7 @@
    git clone https://github.com/Yu-lab7/PokerApp
    cd PokerApp
 
-2. **依存関係のインストール**
-   ```bash
-   pip install -r requirements.txt
-
-3. **実行**
+2. **実行**
    ```bash
    python app.py
 
